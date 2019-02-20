@@ -6,11 +6,6 @@ namespace Mmu.ClaimSecurityTesting.Models
 {
     public class Claim : ValueObject<Claim>
     {
-        public override bool Equals(Claim other)
-        {
-            
-        }
-
         public string ClaimType { get; }
         public IReadOnlyCollection<string> Values { get; }
 

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Mmu.Mlh.LanguageExtensions.Areas.Invariance;
 
-namespace ConsoleApp23.Models
+namespace Mmu.ClaimSecurityTesting.Models
 {
     public class SecurityGroup : SecurityPrincipal
     {
