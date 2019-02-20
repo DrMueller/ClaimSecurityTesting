@@ -1,0 +1,2 @@
+﻿[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("Design", "CA1067:Override Object.Equals(object) when implementing IEquatable<T>", Justification = "Done by Base Class", Scope = "type", Target = "~T:Mmu.ClaimSecurityTesting.Models.RequiredClaim")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("Design", "CA1067:Override Object.Equals(object) when implementing IEquatable<T>", Justification = "Done by Base Class", Scope = "type", Target = "~T:Mmu.ClaimSecurityTesting.Models.Claim")]
